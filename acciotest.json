@@ -1,0 +1,4 @@
+{
+  "testRepo": "css-gallery-solution",
+  "pathToFile": "cypress/integration/tests/test.spec.js"
+}
